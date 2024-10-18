@@ -1,7 +1,7 @@
-![Gif animé JS](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![Gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
-Développeur web full-stack passionné, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
+Développeur web full-stack passionné par le web, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
 
 ### 🌱 Actuellement, je travaille sur :
 - L'amélioration des fonctionnalités en temps réel dans mes projets en utilisant Next.js et Socket.IO.
@@ -10,7 +10,6 @@ Développeur web full-stack passionné, basé à Paris, avec une spécialisation
 ### 🌟 Projets en vedette
 - [Synaptic Surge](https://github.com/Titouan-Goubet/SynapticSurge) : Plateforme de quizz en temps réel avec un système de classement basé sur la rapidité des réponses.
 
-### 🛠️ Langages et outils :
 ### 🛠️ Langages et outils :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
