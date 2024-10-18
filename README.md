@@ -20,3 +20,5 @@ Développeur web full-stack passionné, basé à Paris, avec une spécialisation
 - **Email** : titouangoubet@hotmail.fr
 - **LinkedIn** : [Titouan Goubet](https://www.linkedin.com/in/titouan-goubet-a1a3772a0/)
 - **Portfolio** : [Portfolio](https://titouan-goubet.vercel.app/)
+
+![Titouan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titouan-Goubet&show_icons=true&theme=radical)
