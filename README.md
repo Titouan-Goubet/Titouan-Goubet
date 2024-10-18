@@ -2,6 +2,7 @@
 
 
 Développeur web full-stack passionné par le web, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
+J'ai 25 ans et je suis actuellement à la recherche d'une alternance dans le développement web.
 
 ### 🌱 Actuellement, je travaille sur :
 - L'amélioration des fonctionnalités en temps réel dans mes projets en utilisant Next.js et Socket.IO.
