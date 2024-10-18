@@ -1,4 +1,4 @@
-![Gif animé JS]([https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))
+![Gif animé JS](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
 Développeur web full-stack passionné, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
