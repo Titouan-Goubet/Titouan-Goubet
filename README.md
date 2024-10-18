@@ -7,7 +7,6 @@ Développeur web full-stack passionné, basé à Paris, avec une spécialisation
 
 ### 🌟 Projets en vedette
 - [Synaptic Surge](https://github.com/Titouan-Goubet/SynapticSurge) : Plateforme de quizz en temps réel avec un système de classement basé sur la rapidité des réponses.
-- [PolePlateforme](https://github.com/O-clock-Uranium/projet-poll_platform-front) : Plateforme de sondage en temps réel
 
 ### 🛠️ Langages et outils :
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
