@@ -1,7 +1,7 @@
 ![Gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
-Développeur web full-stack passionné par le web, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
+Développeur web passionné par le web, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
 J'ai 25 ans et je suis actuellement à la recherche d'une alternance dans le développement web.
 
 ### 🌱 Actuellement, je travaille sur :
