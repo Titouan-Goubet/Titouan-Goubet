@@ -7,6 +7,9 @@ J'ai 25 ans et je suis actuellement à la recherche d'une alternance dans le dé
 ### 🌱 Actuellement, je travaille sur :
 - L'amélioration des fonctionnalités en temps réel dans mes projets en utilisant Next.js et Socket.IO.
 - L'approfondissement de mes compétences en **TypeScript** et le développement backend avec **Node.js**.
+- L'apprentissage du développement Salesforce pour élargir mes compétences en développement d'applications d'entreprise.
+- La progression continue sur **Next.js** et **React**, en me concentrant sur les dernières fonctionnalités et les meilleures pratiques.
+- L'exploration et la mise en pratique des principes et outils de **CI/CD** pour améliorer mes processus de développement et de déploiement.
 
 ### 🌟 Projets en vedette
 
@@ -33,6 +36,7 @@ J'ai 25 ans et je suis actuellement à la recherche d'une alternance dans le dé
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### 📫 Comment me contacter :
 - **Email** : titouangoubet@hotmail.fr
