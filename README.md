@@ -1,19 +1,20 @@
+# Titouan Goubet - Développeur Front-End basé à Nantes
+
 ![Gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-
-Développeur web passionné par le web, basé à Paris, avec une spécialisation dans les technologies front-end comme **React** et **Next.js**.
+Développeur front-end passionné par la création d'expériences utilisateurs fluides et performantes, spécialisé dans les technologies modernes comme **React** et **Next.js**.
 
 ### 🌱 Actuellement, je travaille sur :
-- L'amélioration des fonctionnalités en temps réel dans mes projets en utilisant Next.js et Socket.IO.
+- L'amélioration des fonctionnalités en temps réel dans mes projets en utilisant **Next.js** et **Socket.IO**.
 - L'approfondissement de mes compétences en **TypeScript** et le développement backend avec **Node.js**.
-- L'apprentissage du développement Salesforce pour élargir mes compétences en développement d'applications d'entreprise.
-- La progression continue sur **Next.js** et **React**, en me concentrant sur les dernières fonctionnalités et les meilleures pratiques.
+- L'apprentissage du développement avec **Salesforce** pour diversifier mes compétences et comprendre les plateformes d'applications d'entreprise.
+- La progression continue sur **Next.js** et **React**, en me concentrant sur les dernières fonctionnalités et meilleures pratiques.
 - L'exploration et la mise en pratique des principes et outils de **CI/CD** pour améliorer mes processus de développement et de déploiement.
 
 ### 🌟 Projets en vedette
 
-- [Synaptic Surge](https://github.com/Titouan-Goubet/SynapticSurge) : Plateforme de quizz en temps réel avec un système de classement basé sur la rapidité des réponses.
-- [PathQuest](https://github.com/Titouan-Goubet/PathQuest) : Visualiseur interactif d'algorithmes de pathfinding, permettant de comparer visuellement des algorithmes comme BFS pour trouver le chemin optimal dans une grille. [Voir le site](https://path-quest.vercel.app/)
+- [**Synaptic Surge**](https://github.com/Titouan-Goubet/SynapticSurge) : Plateforme de quizz en temps réel avec un système de classement basé sur la rapidité des réponses. Ce projet m'a permis d'approfondir la gestion des événements en temps réel et la scalabilité du backend.
+- [**PathQuest**](https://github.com/Titouan-Goubet/PathQuest) : Visualiseur interactif d'algorithmes de pathfinding, permettant de comparer visuellement des algorithmes comme BFS pour trouver le chemin optimal dans une grille. [Voir le site](https://path-quest.vercel.app/).
 
 ### 🛠️ Langages et outils :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +38,9 @@ Développeur web passionné par le web, basé à Paris, avec une spécialisation
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### 📫 Comment me contacter :
+*Je me concentre principalement sur **React** et **Next.js**, tout en continuant à approfondir mes compétences backend avec **Node.js** et **Prisma** pour des applications complètes et performantes.*
+
+### 📣 Contactez-moi :
 - **Email** : titouangoubet@hotmail.fr
 - **LinkedIn** : [Titouan Goubet](https://www.linkedin.com/in/titouan-goubet-a1a3772a0/)
-- **Portfolio** : [Portfolio](https://titouan-goubet.vercel.app/)
+- **Portfolio** : [Voir mes projets et compétences](https://titouan-goubet.vercel.app/)
