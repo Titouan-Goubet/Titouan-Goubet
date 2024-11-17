@@ -15,7 +15,7 @@ Développeur front-end passionné par la création d'expériences utilisateurs f
 
 - [**Synaptic Surge**](https://github.com/Titouan-Goubet/SynapticSurge) : Plateforme de quizz en temps réel avec un système de classement basé sur la rapidité des réponses. Ce projet m'a permis d'approfondir la gestion des événements en temps réel et la scalabilité du backend.
 - [**PathQuest**](https://github.com/Titouan-Goubet/PathQuest) : Visualiseur interactif d'algorithmes de pathfinding, permettant de comparer visuellement des algorithmes comme BFS pour trouver le chemin optimal dans une grille. [Voir le site](https://path-quest.vercel.app/).
-
+ 
 ### 🛠️ Langages et outils :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
